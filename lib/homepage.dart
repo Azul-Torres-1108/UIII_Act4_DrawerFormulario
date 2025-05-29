@@ -44,7 +44,7 @@ class Homepage extends StatelessWidget {
                   child: CircleAvatar(
                   backgroundColor: Colors.white,
                   child: Text(
-                      "AM",
+                      "MA",
                       style: TextStyle(
                       color: Colors.pink,
                       fontSize: 20.0,
